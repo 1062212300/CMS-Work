@@ -49,12 +49,12 @@
 <p> npm i titbit </p>
 <p> npm i titbit-loader </p>
 
-### 三、在创建好的目录中创建ceshi1.js文件并在其中加入响应代码，并在此目录下运行以下命令，之后对http://localhost:8008/进行访问
+### 三、在创建好的目录中创建ceshi1.js文件并在其中加入响应代码，并在此目录下运行以下命令，之后访问http://localhost:8008/
 <p> node ceshi1.js </p>
-<p> 运行结果如下 </p>
+<p> (1)运行结果如下 </p>
 <img src="./第四章测试结果.png"/>
 
-<p> 访问http://localhost:8008/结果示意图 </p>
+<p> (2)访问http://localhost:8008/结果示意图 </p>
 <img src="./第四章页面访问测试结果.png"/>
 
 ## 第五章 添加显示图片功能
