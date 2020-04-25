@@ -34,8 +34,8 @@
 
 ### 二、测试环境
 <p> 编写以下代码并用Node执行 </p>
-<p> const os = require('os'); </p>
-<p> console.log(`Node 运行在 ${os.platform()}`); </p>
+<p> (1)const os = require('os'); </p>
+<p> (2)console.log(`Node 运行在 ${os.platform()}`); </p>
 
 ### 三、测试结果
 <img src="./第三章测试结果.png"/>
@@ -45,9 +45,9 @@
 <img src="./第四章结构示意图.png"/>
 
 ### 二、创建空目录之后，切换到新创建的此目录然后运行以下命令（运行之后空目录中会出现node_modules文件夹和package-lock.json文件）
-<p> npm init -y </p>
-<p> npm i titbit </p>
-<p> npm i titbit-loader </p>
+<p> (1)npm init -y </p>
+<p> (2)npm i titbit </p>
+<p> (3)npm i titbit-loader </p>
 
 ### 三、在创建好的目录中创建ceshi1.js文件并在其中加入响应代码，并在此目录下运行以下命令，之后访问http://localhost:8008/
 <p> (1)运行命令 </p>
