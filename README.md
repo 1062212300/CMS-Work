@@ -27,6 +27,17 @@
 <img src="./image/Node.js框架.png"/>
 
 ## 第三章 搭建环境
+### 一、搭建Node.js环境
+<p>本课程测试和实验的代码都是在Windows系统下进行的，所以这里搭建环境选择了在Windows平台部署。在Node官网中下载Windows版本并进行默认安装</p>
+
+### 二、测试环境
+<p> 编写以下代码并用Node执行 </p>
+<p> const os = require('os'); </p>
+<p> console.log(`Node 运行在 ${os.platform()}`); </p>
+
+### 三、测试结果
+<img src="./第二章测试结果.png"/>
+
 ## 第四章 实现最小框架
 ## 第五章 添加显示图片功能
 ## 第六章 重构设计并使用数据库
